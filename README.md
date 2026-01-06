@@ -2,9 +2,9 @@
 
 Backend system provides restful API for web or mobile.
 
-[![CircleCI](https://circleci.com/gh/piomin/sample-spring-microservices-new.svg?style=svg)](https://sonarcloud.io/project/issues?resolved=false&id=hoangtien2k3_ecommerce-microservices)
+[![CircleCI](https://circleci.com/gh/piomin/sample-spring-microservices-new.svg?style=svg)](https://sonarcloud.io/project/issues?resolved=false&id=benawi_ecommerce-microservices)
 
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/project/configuration?id=hoangtien2k3_ecommerce-microservices)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/project/configuration?id=benawi_ecommerce-microservices)
 
 ## Introduction
 
@@ -37,7 +37,7 @@ Follow these steps to set up and run the backend:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/hoangtien2k3/ecommerce-microservices.git
+   git clone https://github.com/benawi/ecommerce-microservices.git
 ```
 
 #### 1. Navigate to the project directory:
